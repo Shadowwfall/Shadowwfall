@@ -27,7 +27,8 @@ skills through competitive programming.
 ![](https://github-profile-trophy.vercel.app/?username=Shadowwfall&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shadowwfall&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://raw.githubusercontent.com/Shadowwfall/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/Shadowwfall/github-stats/master/generated/languages.svg)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Shadowwfall&icon=0&color=0)](https://visitcount.itsvg.in)
