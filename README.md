@@ -1,16 +1,20 @@
 # 💫 About Me:
 
+## 👋 Hi, I'm Prakhar
+
 I'm a second-year B.Tech CSE student at NIAT & VGU, Jaipur, building full-stack 
 web applications through hands-on projects and sharpening my problem-solving 
 skills through competitive programming.
 
-- 🤖 Currently interning as an ML Engineer at SkillCraft Technology, working on 
-  regression, clustering, SVMs, and computer vision
-- 🛠️ Recently built SyncBoard — a real-time collaborative Kanban board 
-  (MERN + Socket.IO)
-- 📈 Also explore ML through personal projects like PropValuate (house price prediction)
-- 🌱 Always learning — full-stack dev, ML, and DSA in parallel
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/prakharkaushik20)
+- 💻 Full-stack development: MERN stack, real-time apps (SyncBoard — collaborative 
+  Kanban with Socket.IO)
+- 🧠 Machine Learning: currently an ML Engineer Intern at SkillCraft Technology — 
+  regression, K-Means clustering, SVM image classification, OpenCV gesture recognition
+- 🏆 Sharpening problem-solving through competitive programming
+- 🎓 Graduating September 2029
+- 🔗 [LinkedIn](https://linkedin.com/in/prakharkaushik20)
+
+Always open to collaborating on interesting full-stack or ML projects!
 
 
 ## 🌐 Socials:
